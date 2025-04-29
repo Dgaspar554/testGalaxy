@@ -1,0 +1,12 @@
+# Directorio de compilación de Maven
+/target/
+# Archivos de configuración de Spring
+.env
+
+# Node.js y React Native
+node_modules/
+npm-debug.log
+yarn-error.log
+.expo/
+.vscode/
+
